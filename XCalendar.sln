@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XCalendarSample", "XCalenda
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XCalendar", "XCalendar\XCalendar.csproj", "{62B67B03-53AB-4CA3-93BE-0D6BBCDB606E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XCalendarMauiSample", "XCalendarMauiSample\XCalendarMauiSample.csproj", "{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,19 @@ Global
 		{62B67B03-53AB-4CA3-93BE-0D6BBCDB606E}.Release|iPhone.Build.0 = Release|Any CPU
 		{62B67B03-53AB-4CA3-93BE-0D6BBCDB606E}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{62B67B03-53AB-4CA3-93BE-0D6BBCDB606E}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Release|iPhone.Build.0 = Release|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{5ABDD924-46C5-43E4-A623-1FC4ED9BCA5E}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
